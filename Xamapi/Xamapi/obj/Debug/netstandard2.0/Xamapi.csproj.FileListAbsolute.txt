@@ -1,0 +1,16 @@
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Xamapi\Xamapi\Xamapi\bin\Debug\netstandard2.0\Xamapi.deps.json
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Xamapi\Xamapi\Xamapi\bin\Debug\netstandard2.0\Xamapi.dll
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Xamapi\Xamapi\Xamapi\bin\Debug\netstandard2.0\ref\Xamapi.dll
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Xamapi\Xamapi\Xamapi\bin\Debug\netstandard2.0\Xamapi.pdb
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Xamapi\Xamapi\Xamapi\obj\Debug\netstandard2.0\Xamapi.csprojAssemblyReference.cache
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Xamapi\Xamapi\Xamapi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Xamapi\Xamapi\Xamapi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Xamapi\Xamapi\Xamapi\obj\Debug\netstandard2.0\Xamapi.AssemblyInfoInputs.cache
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Xamapi\Xamapi\Xamapi\obj\Debug\netstandard2.0\Xamapi.AssemblyInfo.cs
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Xamapi\Xamapi\Xamapi\obj\Debug\netstandard2.0\Xamapi.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Xamapi\Xamapi\Xamapi\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Xamapi\Xamapi\Xamapi\obj\Debug\netstandard2.0\Xamapi.dll
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Xamapi\Xamapi\Xamapi\obj\Debug\netstandard2.0\ref\Xamapi.dll
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Xamapi\Xamapi\Xamapi\obj\Debug\netstandard2.0\Xamapi.pdb
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Xamapi\Xamapi\Xamapi\obj\Debug\netstandard2.0\Xamapi.csproj.Fody.CopyLocal.cache
+C:\Users\TEMP.LAPTOP-TVAOR877.002\source\repos\Xamapi\Xamapi\Xamapi\obj\Debug\netstandard2.0\Views\StatePage.xaml.g.cs
